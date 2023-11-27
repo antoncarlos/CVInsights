@@ -3,6 +3,7 @@ import nltk
 import re
 
 #
+#
 # Descarga los recursos necesarios para nltk
 nltk.download('punkt')
 nltk.download('stopwords')
